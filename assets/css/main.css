@@ -1,0 +1,225 @@
+body {
+    background-color: #00FFA34F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vh;
+    margin-left: -1350px;
+}
+
+.ota {
+    display: flex;
+}
+
+.child {
+    background-color: blue;
+    width: 266px;
+    height: 532.36px;
+}
+
+.child0 {
+    background-color: rgb(255, 255, 255);
+    width: 266px;
+    height: 532.36px;
+}
+
+.child1 {
+    background-color: rgb(255, 71, 71);
+    width: 266px;
+    height: 532.36px;
+}
+
+
+.ota1 {
+    display: flex;
+    margin-left: 150px;
+}
+
+.child2 {
+    background-color: rgb(0, 192, 0);
+    width: 266px;
+    height: 532.36px;
+}
+
+.child3 {
+    background-color: rgb(255, 255, 255);
+    width: 266px;
+    height: 532.36px;
+}
+
+.child4 {
+    background-color: rgb(255, 71, 71);
+    width: 266px;
+    height: 532.36px;
+}
+
+
+.ota2 {
+    display: block;
+    margin-left: 150px;
+}
+
+.child5 {
+    background-color: rgb(0, 0, 0);
+    width: 800px;
+    height: 205px;
+}
+
+.child6 {
+    background-color: rgb(255, 71, 71);
+    width: 800px;
+    height: 205px;
+}
+
+.child7 {
+    background-color: yellow;
+    width: 800px;
+    height: 205px;
+}
+
+
+.ota3 {
+    display: block;
+    margin-left: 150px;
+}
+
+.child8 {
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    height: 190px;
+
+}
+
+.child9 {
+    background-color: #00FFA34F;
+    width: 800px;
+    height: 190px;
+}
+
+.child10 {
+    background-color: #f80000;
+    width: 800px;
+    height: 190px;
+}
+
+.pa {
+    display: flex;
+    margin-left: -3630px;
+    margin-top: 2000px;
+}
+
+.bola10 {
+    background: linear-gradient(135deg, rgb(63, 170, 1) 0 37%, yellow 20% 62%, red 40% 100%);
+    width: 800px;
+    height: 530px;
+}
+
+.dada {
+    background: linear-gradient(33deg, green 50%, yellow 50% 100%);
+    width: 800px;
+    height: 530px;
+    margin-left: 150px;
+}
+
+.dada img {
+    margin-top: 170px;
+    margin-left: 330px;
+}
+
+.papa {
+    display: block;
+    margin-left: 150px;
+}
+
+.bola1 {
+    background-color: rgb(20, 20, 255);
+    width: 800px;
+    height: 190px;
+
+}
+
+.bola2 {
+    background-color: black;
+    width: 800px;
+    height: 190px;
+}
+
+.bola3 {
+    background-color: #ffffff;
+    width: 800px;
+    height: 190px;
+}
+
+
+
+.papa1 {
+    display: block;
+    margin-left: 150px;
+}
+
+.box {
+    background-color: rgb(43, 1, 255);
+    width: 800px;
+    height: 526.164px;
+}
+
+.box1 {
+    background-color: yellow;
+    width: 100px;
+    height: 526.164px;
+    margin-left: 210px;
+    margin-top: -527px;
+}
+
+.box2 {
+    height: 100px;
+    width: 800px;
+    background-color: yellow;
+    margin-top: -325px;
+}
+
+.pap {
+    margin-top: 3500px;
+    margin-left: -2090px;
+}
+
+.b1 {
+    width: 900px;
+    height: 231.667px;
+    background-color: #002868;
+    ;
+}
+
+.b2 {
+    width: 900px;
+    height: 190.667px;
+    background-color: #ffffff;
+    ;
+}
+
+.b3 {
+    width: 900px;
+    height: 231.667px;
+    background-color: #002868;
+    ;
+}
+
+.b4 {
+    width: 900px;
+    height: 45.556px;
+    background-color: #BF0A30;
+    margin-top: -350px;
+}
+
+.b1 img {
+    margin-top: 30px;
+    margin-left: 99px;
+}
+
+.b3 img {
+    margin-top: 90px;
+    margin-left: 700px;
+}
+.name{
+    padding-left: 100px;
+}
